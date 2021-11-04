@@ -17,6 +17,7 @@ Order to Delivery (OTD) Design
 
 **Queuing**:
 - [Parcel-Tracking with AMQP - Headstart](https://github.com/vanHeemstraSystems/parcel-tracking-with-amqp-headstart)
+- [AMQP Service - Headstart](https://github.com/vanHeemstraSystems/amqp-service-headstart)
 
 **Microservices**:
 - [Strapi Headless CMS](https://github.com/vanHeemstraSystems/strapi-headless-cms-headstart)
