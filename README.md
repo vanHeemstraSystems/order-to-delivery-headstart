@@ -6,6 +6,8 @@ Order to Delivery (OTD) Design
 
 Based on "Order-to-Delivery: Process Performance in Delivery Scheduling Environments" at https://www.researchgate.net/publication/242020153_Order-to-delivery_process_performance_in_delivery_scheduling_environments
 
+Direct download: [ForslundJonssonandMattsson2009Order-to-deliveryprocessperformanceindeliveryschedulingenvironmentsIJPPM.pdf](https://github.com/vanHeemstraSystems/order-to-delivery-headstart/files/7473508/ForslundJonssonandMattsson2009Order-to-deliveryprocessperformanceindeliveryschedulingenvironmentsIJPPM.pdf)
+
 ![image](https://user-images.githubusercontent.com/12828104/140285352-78ac603b-6043-4a99-8615-bb0afea7b6ee.png)
 
 
