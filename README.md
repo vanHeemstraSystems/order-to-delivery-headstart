@@ -4,6 +4,10 @@ order-to-delivery-headstart
 ![OTD - Design](https://user-images.githubusercontent.com/12828104/140282262-a1b83d60-9735-457e-bbaf-ac9dc79fd44f.jpg)
 Order to Delivery (OTD) Design
 
+Based on "Order-to-Delivery: Process Performance in Delivery Scheduling Environments" at https://www.researchgate.net/publication/242020153_Order-to-delivery_process_performance_in_delivery_scheduling_environments
+![image](https://user-images.githubusercontent.com/12828104/140285352-78ac603b-6043-4a99-8615-bb0afea7b6ee.png)
+
+
 ## 100 - Related repositories:
 
 **Databases**:
