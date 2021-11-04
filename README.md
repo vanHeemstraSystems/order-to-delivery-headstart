@@ -20,7 +20,7 @@ Order to Delivery (OTD) Design
 - [AMQP Service - Headstart](https://github.com/vanHeemstraSystems/amqp-service-headstart)
 
 **Microservices**:
-- [Strapi Headless CMS](https://github.com/vanHeemstraSystems/strapi-headless-cms-headstart)
+- [Strapi Headless CMS - Headstart](https://github.com/vanHeemstraSystems/strapi-headless-cms-headstart)
 
 **Functions**:
 - [Function Hello Python - Headstart](https://github.com/vanHeemstraSystems/function-hello-python-headstart)
